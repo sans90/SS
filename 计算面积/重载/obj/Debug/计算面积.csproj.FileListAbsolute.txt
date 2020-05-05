@@ -1,0 +1,6 @@
+E:\计算面积\计算面积\obj\Debug\计算面积.csproj.CoreCompileInputs.cache
+E:\计算面积\计算面积\bin\Debug\计算面积.exe.config
+E:\计算面积\计算面积\bin\Debug\计算面积.exe
+E:\计算面积\计算面积\bin\Debug\计算面积.pdb
+E:\计算面积\计算面积\obj\Debug\计算面积.exe
+E:\计算面积\计算面积\obj\Debug\计算面积.pdb

@@ -1,0 +1,7 @@
+E:\计算面积\重写\bin\Debug\重写.exe.config
+E:\计算面积\重写\bin\Debug\重写.exe
+E:\计算面积\重写\bin\Debug\重写.pdb
+E:\计算面积\重写\obj\Debug\重写.csproj.CoreCompileInputs.cache
+E:\计算面积\重写\obj\Debug\重写.exe
+E:\计算面积\重写\obj\Debug\重写.pdb
+E:\计算面积\重写\obj\Debug\重写.csprojAssemblyReference.cache

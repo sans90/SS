@@ -1,0 +1,7 @@
+E:\计算面积\接口\bin\Debug\接口.exe.config
+E:\计算面积\接口\bin\Debug\接口.exe
+E:\计算面积\接口\bin\Debug\接口.pdb
+E:\计算面积\接口\obj\Debug\接口.csproj.CoreCompileInputs.cache
+E:\计算面积\接口\obj\Debug\接口.exe
+E:\计算面积\接口\obj\Debug\接口.pdb
+E:\计算面积\接口\obj\Debug\接口.csprojAssemblyReference.cache
